@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6837
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Hagedorn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16636#Makers-of-MadnessA-Play-in-One-Act-and-Three-Scenes
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2005-09-03'
 gutenberg_type: Text
